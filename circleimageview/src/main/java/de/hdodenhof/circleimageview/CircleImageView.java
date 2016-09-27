@@ -74,6 +74,8 @@ public class CircleImageView extends ImageView {
     private boolean mSetupPending;
     private boolean mBorderOverlay;
 
+
+    //test
     public CircleImageView(Context context) {
         super(context);
 
